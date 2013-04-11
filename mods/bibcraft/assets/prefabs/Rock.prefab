@@ -1,0 +1,8 @@
+{
+    "Item" : {
+        "name" : "Rock",
+        "icon" : "Rock",
+        "renderWithIcon" : true,
+        "stackId" : "bibcraft:rock"
+    }
+}
