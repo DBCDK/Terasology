@@ -1,12 +1,14 @@
 {
-    "Item": {
+    "Hest": {
         "name": "Hest",
-        "icon": "bibcraft:Hest",
+        "icon": "Hest",
         "renderWithIcon": true,
         "stackId": "bibcraft:hest"
     },
     "CraftRecipe": {
-        "result": "bibcraft:Hest",
+        "type" : "EXTERNAL",
+        "fullMatch": false,
+        "result" : "bibcraft:hest",
         "recipe": {
             "bottom": [
                 " ", " ", " ",
