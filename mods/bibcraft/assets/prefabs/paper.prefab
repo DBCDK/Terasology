@@ -1,14 +1,14 @@
 {
-    "Hest": {
-        "name": "Hest",
-        "icon": "Hest",
+    "Paper": {
+        "name": "Paper",
+        "icon": "Paper",
         "renderWithIcon": true,
-        "stackId": "bibcraft:hest"
+        "stackId": "bibcraft:paper"
     },
     "CraftRecipe": {
         "type" : "EXTERNAL",
         "fullMatch": false,
-        "result" : "bibcraft:hest",
+        "result" : "bibcraft:paper",
         "recipe": {
             "bottom": [
                 " ", " ", " ",
