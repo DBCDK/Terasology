@@ -1,0 +1,8 @@
+{
+    "Item" : {
+        "name" : "Bog",
+        "icon" : "Type",
+        "renderWithIcon" : true,
+        "stackId" : "bibcraft:Bog"
+    }
+}

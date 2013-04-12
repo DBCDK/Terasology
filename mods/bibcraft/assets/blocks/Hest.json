@@ -1,0 +1,18 @@
+{
+    "attachmentAllowed": false,
+    "rotation": "horizontal",
+    "craftPlace": false,
+    "tiles": {
+        "sides": "bibcraft:Hest",
+        "front": "bibcraft:Hest",
+        "topBottom": "bibcraft:Hest"
+    },
+    "entity": {
+        "prefab": "bibcraft:hest",
+        "mode": "persistent"
+    },
+    "inventory": {
+        "stackable": true,
+        "directPickup": true
+    }
+}

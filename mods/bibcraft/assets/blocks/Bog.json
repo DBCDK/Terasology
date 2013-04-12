@@ -1,0 +1,18 @@
+{
+    "rotation": "horizontal",
+
+    // Graphics
+    "tiles": {
+        "sides": "bibcraft:Bog",
+        "front": "bibcraft:Bog",
+        "topBottom": "bibcraft:Bog"
+    },
+    "entity": {
+        "prefab": "bibcraft:Bog",
+        "mode": "persistent"
+    },
+    "inventory": {
+        "stackable": true,
+        "directPickup": true
+    }
+}

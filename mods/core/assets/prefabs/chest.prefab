@@ -1,53 +1,53 @@
 {
-  "Inventory": {
-    "itemSlots": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  "PlaySoundAction" : {
-    sounds = "engine:click"
-  },
-  "AccessInventoryAction": {},
-  "CraftRecipe" : {
-        "recipe" :  {
-            bottom:
-                [
-                    "plank",  "plank", "plank",
-                    "plank",  " ",     "plank",
-                    "plank",  "plank", "plank"
-                ]
-        },
+    "Inventory": {
+        "itemSlots": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "PlaySoundAction": {
+        sounds = "engine:click"
+},
+"AccessInventoryAction": {},
+"CraftRecipe" : {
+"recipe" :  {
+bottom:
+[
+"plank",  "plank", "plank",
+"plank",  " ",     "plank",
+"plank",  "plank", "plank"
+]
+},
 
-        "resultCount": 1
+"resultCount": 1
 
-    }
+}
 }

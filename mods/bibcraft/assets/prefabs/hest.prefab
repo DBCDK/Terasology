@@ -1,0 +1,18 @@
+{
+    "Item": {
+        "name": "Hest",
+        "icon": "bibcraft:Hest",
+        "renderWithIcon": true,
+        "stackId": "bibcraft:hest"
+    },
+    "CraftRecipe": {
+        "result": "bibcraft:Hest",
+        "recipe": {
+            "bottom": [
+                " ", " ", " ",
+                "plank", "plank", "plank",
+                "plank", "plank", "plank"
+            ]
+        }
+    }
+}

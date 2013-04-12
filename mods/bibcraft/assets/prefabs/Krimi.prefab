@@ -1,0 +1,8 @@
+{
+    "Item" : {
+        "name" : "Krimi",
+        "icon" : "Subject",
+        "renderWithIcon" : true,
+        "stackId" : "bibcraft:Krimi"
+    }
+}

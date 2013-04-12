@@ -1,0 +1,18 @@
+{
+    "rotation": "horizontal",
+
+    // Graphics
+    "tiles": {
+        "sides": "bibcraft:Krimi",
+        "front": "bibcraft:Krimi",
+        "topBottom": "bibcraft:Krimi"
+    },
+    "entity": {
+        "prefab": "bibcraft:Krimi",
+        "mode": "persistent"
+    },
+    "inventory": {
+        "stackable": true,
+        "directPickup": true
+    }
+}

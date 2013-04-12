@@ -18,5 +18,22 @@
  * A mineral block that would drop Rock
  */
 {
-    "mass" = 100
+    "attachmentAllowed" : false,
+    "rotation" : "horizontal",
+    "craftPlace" : false,
+
+    // Graphics
+    "tiles" : {
+        "sides" : "bibcraft:Rock",
+        "front" : "bibcraft:Rock",
+        "topBottom" : "bibcraft:Rock"
+    },
+    "entity" : {
+        "prefab" : "bibcraft:rock",
+        "mode" : "persistent"
+    },
+    "inventory" : {
+        "stackable" : true,
+        "directPickup" : true
+    }
 }
